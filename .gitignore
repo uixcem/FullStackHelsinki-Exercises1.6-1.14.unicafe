@@ -1,0 +1,17 @@
+
+# Node modules klasörünü ignore et
+node_modules/
+node_modules
+dist
+
+# Vite build dizinini ignore et
+dist/
+
+# Sistem dosyalarını ignore et (macOS)
+.DS_Store
+
+# log dosyalarını ignore et
+npm-debug.log
+yarn-debug.log
+yarn-error.lognode_modules/
+dist/
